@@ -1,7 +1,0 @@
-<aura:component >
-    
-    this is the concept of nested component
-    <c:helloHTML />
-    <c:helloAttribute />
-	
-</aura:component>
